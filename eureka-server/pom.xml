@@ -3,20 +3,20 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<parent>
-		<groupId>com.pengsong</groupId>
-		<artifactId>spring-cloud-demo</artifactId>
-		<version>1.0-SNAPSHOT</version>
-		<relativePath/>
-	</parent>
-
-	<groupId>com.pengsong</groupId>
+	<groupId>com.pengsong.spring-cloud-demo</groupId>
 	<artifactId>eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>eureka-server</name>
 	<description>Demo project for Eureka Server</description>
+
+	<parent>
+		<groupId>com.pengsong</groupId>
+		<artifactId>spring-cloud-demo</artifactId>
+		<version>1.0-SNAPSHOT</version>
+		<!--<relativePath/>-->
+	</parent>
 
 	<!--<parent>-->
 		<!--<groupId>org.springframework.boot</groupId>-->
