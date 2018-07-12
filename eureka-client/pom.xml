@@ -15,15 +15,7 @@
 		<groupId>com.pengsong</groupId>
 		<artifactId>spring-cloud-demo</artifactId>
 		<version>1.0-SNAPSHOT</version>
-		<relativePath/>
 	</parent>
-
-	<!--<properties>-->
-		<!--<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>-->
-		<!--<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>-->
-		<!--<java.version>1.8</java.version>-->
-		<!--<spring-cloud.version>Finchley.RELEASE</spring-cloud.version>-->
-	<!--</properties>-->
 
 	<dependencies>
 		<dependency>
