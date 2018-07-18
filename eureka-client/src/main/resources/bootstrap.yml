@@ -9,7 +9,7 @@ eureka:
     serviceUrl:
       defaultZone: http://peer1:8761/eureka/
 server:
-  port: 8763
+  port: 8762
 
 ---
 spring:
@@ -19,4 +19,4 @@ eureka:
     serviceUrl:
       defaultZone: http://peer1:8761/eureka/
 server:
-  port: 8764
+  port: 8763
