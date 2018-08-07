@@ -5,11 +5,16 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://peer1:8761/eureka/
+management:
+  security:
+    enabled: false
 ---
 spring:
   profiles: client1
 server:
   port: 8762
+logging:
+  file: "logs/eureka-client-1.log"
 
 ---
 spring:
