@@ -1,4 +1,4 @@
-package com.pengsong.security.Service;
+package com.pengsong.security.service;
 
 import com.pengsong.security.model.Blog;
 

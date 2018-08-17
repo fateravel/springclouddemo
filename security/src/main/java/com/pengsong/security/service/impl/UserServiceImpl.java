@@ -1,6 +1,6 @@
-package com.pengsong.security.Service.impl;
+package com.pengsong.security.service.impl;
 
-import com.pengsong.security.Service.UserService;
+import com.pengsong.security.service.UserService;
 import com.pengsong.security.dao.UserDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

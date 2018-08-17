@@ -1,6 +1,6 @@
-package com.pengsong.security.Service.impl;
+package com.pengsong.security.service.impl;
 
-import com.pengsong.security.Service.IBlogService;
+import com.pengsong.security.service.IBlogService;
 import com.pengsong.security.model.Blog;
 import org.springframework.stereotype.Service;
 

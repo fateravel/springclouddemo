@@ -20,7 +20,6 @@ eureka:
   client:
     service-url:
       defalutZone: http://peer1:8761/eureka/
-#手动维护服务注册列表
 #ribbon:
 #  eureka:
 #    enabled: false
